@@ -91,7 +91,7 @@
         <a> | </a>
         <a class="text-gray-500" href="https://jq.qq.com/?_wv=1027&k=E0zhLMMa">欢迎体验sd&novelai</a>
         <a> | </a>
-        <a class="text-gray-500" href="https://novelai.dev">NovelAI.Dev</a>
+        <a class="text-gray-500" href="https://m2fq1x9wgr.feishu.cn/invite/member/Awk3l01uxVbJlQkQ">欢迎加入@东方隐侠</a>
       </span>
     </div>
   </div>
